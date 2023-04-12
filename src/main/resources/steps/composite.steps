@@ -1,0 +1,4 @@
+Composite: When I search for `$criteria`
+When I click on element located by `cssSelector(.evnt-global-search-field)`
+When I enter '<criteria>' in a field with the name 'Поиск'
+When I click on element located by `cssSelector(.evnt-search-icon)`
